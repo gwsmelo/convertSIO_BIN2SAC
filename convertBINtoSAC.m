@@ -12,6 +12,7 @@
 % v 1.0 April 2022 first version using getsio (sconstable@ucsd.edu) and 
 %                   MKSAC (https://github.com/IPGP/sac-lib/) codes
 %
+% GITHUB: https://github.com/gwsmelo/convertSIO_BIN2SAC
 %
 %--------------------------------------------------------------------------
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
